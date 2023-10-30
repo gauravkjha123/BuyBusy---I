@@ -1,0 +1,31 @@
+.navbar {
+    height: 60px;
+    display: flex;
+    width: 90%;
+    margin: auto;
+    align-items: center;
+    padding-left: 20px;
+    justify-content: space-between;
+    background-color: white;
+  }
+  
+  .navbar img {
+    height: 60%;
+    cursor: pointer;
+  }
+  
+  nav {
+    margin-left: 30px;
+    display: flex;
+    gap: 30px;
+    color: red;
+  }
+  
+  nav a {
+    padding: 5px 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  
